@@ -1,2 +1,2 @@
 # personal-booking-website
-Book your appointment with your customers easily
+Customers can easily book their appointments with you 
